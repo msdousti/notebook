@@ -99,13 +99,13 @@ initial connection time = 221.231 ms
 tps = 640.721594 (without initial connection time)
 ```
 
-![[Pasted image 20240424140114.png]]
+![[20240424140114.png]]
 
-![[Pasted image 20240424140134.png]]
+![[20240424140134.png]]
 
-![[Pasted image 20240424140013.png]]
+![[20240424140013.png]]
 
-![[Pasted image 20240424140221.png]]
+![[20240424140221.png]]
 ## Config 02
 
 Same as Config 01, except:
@@ -198,13 +198,13 @@ initial connection time = 190.033 ms
 tps = 762.620347 (without initial connection time)
 ```
 
-![[Pasted image 20240424145929.png]]
+![[20240424145929.png]]
 
-![[Pasted image 20240424145945.png]]
+![[20240424145945.png]]
 
-![[Pasted image 20240424150022.png]]
+![[20240424150022.png]]
 
-![[Pasted image 20240424150110.png]]
+![[20240424150110.png]]
 
 ## Config 04
 
@@ -255,13 +255,13 @@ initial connection time = 183.054 ms
 tps = 915.878040 (without initial connection time)
 ```
 
-![[Pasted image 20240424153059.png]]
+![[20240424153059.png]]
 
-![[Pasted image 20240424153041.png]]
+![[20240424153041.png]]
 
-![[Pasted image 20240424153116.png]]
+![[20240424153116.png]]
 
-![[Pasted image 20240424153129.png]]
+![[20240424153129.png]]
 
 
 
@@ -328,10 +328,10 @@ initial connection time = 172.796 ms
 tps = 1288.455218 (without initial connection time)
 ```
 
-![[Pasted image 20240424154137.png]]
+![[20240424154137.png]]
 
-![[Pasted image 20240424154152.png]]
+![[20240424154152.png]]
 
-![[Pasted image 20240424154211.png]]
+![[20240424154211.png]]
 
-![[Pasted image 20240424154225.png]]
+![[20240424154225.png]]
